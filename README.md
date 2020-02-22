@@ -2,7 +2,7 @@
 
 [![Travis-CI](https://api.travis-ci.org/outofcoffee/base36.svg)](https://travis-ci.org/outofcoffee/base36)
 
-CLI that implements Base36 encoding and decoding, which is useful to represent large integers in a case-insensitive alphanumeric way.
+CLI that implements Base36 encoding and decoding.
 
 ## Examples
 
